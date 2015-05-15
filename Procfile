@@ -1,1 +1,1 @@
-web: bin/hubot -a slack --name otto -l !
+web: bin/hubot -a slack
