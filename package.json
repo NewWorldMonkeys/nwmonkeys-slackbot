@@ -31,7 +31,8 @@
     "oauth": "^0.9.13",
     "twit": "^1.1.20",
     "cradle": "^0.6.9",
-    "scraper": "^0.0.9"
+    "scraper": "^0.0.9",
+    "githubot": "^0.5.0"
   },
   "engines": {
     "node": "0.10.x"
