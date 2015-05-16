@@ -5,6 +5,9 @@
   "author": "kevin@nwmonkeys.com",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "cradle": "^0.6.9",
+    "githubot": "^0.5.0",
+    "htmlparser": "^1.7.7",
     "hubot": "^2.12.0",
     "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
@@ -23,16 +26,13 @@
     "hubot-soon": "^1.0.0",
     "hubot-tell": "^1.2.3",
     "hubot-youtube": "^0.1.2",
-    "soupselect": "^0.2.0",
-    "htmlparser": "^1.7.7",
     "jsdom": "^5.4.1",
-    "underscore.string": "^3.0.3",
-    "underscore": "^1.8.3",
     "oauth": "^0.9.13",
-    "twit": "^1.1.20",
-    "cradle": "^0.6.9",
     "scraper": "^0.0.9",
-    "githubot": "^0.5.0"
+    "soupselect": "^0.2.0",
+    "twit": "^1.1.20",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.0.3"
   },
   "engines": {
     "node": "0.10.x"
