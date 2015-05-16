@@ -7,7 +7,7 @@
   "time.coffee",
   "tasks.coffee",
   "store-messages-couchdb.coffee",
-  "stocks.coffee",
+  "stock.coffee",
   "status.coffee",
   "sosearch.coffee",
   "shipit.coffee",
