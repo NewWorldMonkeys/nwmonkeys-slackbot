@@ -25,6 +25,7 @@
     "hubot-youtube": "^0.1.2",
     "soupselect": "^0.2.0",
     "htmlparser": "^1.7.7",
+    "jsdom": "^5.4.1",
     "underscore.string": "^3.0.3",
     "underscore": "^1.8.3"
   },
