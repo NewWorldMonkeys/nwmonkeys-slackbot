@@ -27,12 +27,13 @@
     "hubot-tell": "^1.2.3",
     "hubot-youtube": "^0.1.2",
     "jsdom": "^5.4.1",
+    "node-inspector": "^0.10.1",
     "oauth": "^0.9.13",
     "scraper": "^0.0.9",
     "soupselect": "^0.2.0",
     "twit": "^1.1.20",
     "underscore": "^1.8.3",
-    "underscore.string": "^3.0.3"
+    "underscore.string": "^3.0.3",
   },
   "engines": {
     "node": "0.10.x"
