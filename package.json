@@ -1,6 +1,6 @@
 {
   "name": "otto",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "author": "kevin@nwmonkeys.com",
   "description": "A simple helpful robot for your Company",
@@ -33,7 +33,7 @@
     "soupselect": "^0.2.0",
     "twit": "^1.1.20",
     "underscore": "^1.8.3",
-    "underscore.string": "^3.0.3",
+    "underscore.string": "^3.0.3"
   },
   "engines": {
     "node": "0.10.x"
